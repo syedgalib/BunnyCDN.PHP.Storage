@@ -1,0 +1,15 @@
+{
+    "name": "syedgalibahmed/bunny-cdn.php.storage",
+    "authors": [
+        {
+            "name": "Syed Galib Ahmed",
+            "email": "syedgalibahmed@gmail.com"
+        }
+    ],
+    "description": "The official PHP library used for interacting with the BunnyCDN Storage API.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT"
+}
